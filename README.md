@@ -1,5 +1,5 @@
 👋 Hi there , I’m Priscilla
-- 🎓  I’m a MSc student in Computer Science
+- 🎓  I’m a Phd student in Computer Science
 - ⛺️  I'm currently based in Milan, Italy
 - 💼  my Linkedin account is https://www.linkedin.com/in/priscilla-raucci-5a7b29182/ 
 
